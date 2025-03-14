@@ -1,0 +1,11 @@
+At 2025-03-14 16:58:20, Benin: Temperature is 37.07°C, Weather is overcast clouds, Humidity is 26%
+At 2025-03-14 16:58:56, Accra: Temperature is 30.23°C, Weather is few clouds, Humidity is 70%
+At 2025-03-14 17:27:59, lagos: Temperature is 31.69°C, Weather is overcast clouds, Humidity is 61%
+At 2025-03-14 17:28:05, Abuja: Temperature is 35.08°C, Weather is overcast clouds, Humidity is 15%
+At 2025-03-14 17:28:14, dublin: Temperature is 6.12°C, Weather is overcast clouds, Humidity is 87%
+At 2025-03-14 17:28:43, tripoli: Temperature is 31.95°C, Weather is clear sky, Humidity is 19%
+At 2025-03-14 17:29:00, ankara: Temperature is 19.97°C, Weather is clear sky, Humidity is 28%
+At 2025-03-14 17:31:04, athens: Temperature is 19.77°C, Weather is broken clouds, Humidity is 66%
+At 2025-03-14 17:38:49, berlin: Temperature is 7.99°C, Weather is scattered clouds, Humidity is 58%
+At 2025-03-14 17:39:02, munich: Temperature is 5.5°C, Weather is overcast clouds, Humidity is 83%
+At 2025-03-14 17:39:07, gas: Temperature is 6.24°C, Weather is overcast clouds, Humidity is 66%
