@@ -1,8 +1,11 @@
+import os
 import requests  # Import library to request from API
 from datetime import datetime  # Import library to get the current date and time
 
 # Generated API Key (make sure to keep this private)
-API_KEY = "6bd67ea2049f6f1769071c5095b77dd7"
+
+API_KEY = os.getenv(Weather_Api_Key)
+
 
 # Base URL for the OpenWeatherMap API
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
