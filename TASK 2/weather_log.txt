@@ -9,3 +9,6 @@ At 2025-03-14 17:31:04, athens: Temperature is 19.77°C, Weather is broken clouds
 At 2025-03-14 17:38:49, berlin: Temperature is 7.99°C, Weather is scattered clouds, Humidity is 58%
 At 2025-03-14 17:39:02, munich: Temperature is 5.5°C, Weather is overcast clouds, Humidity is 83%
 At 2025-03-14 17:39:07, gas: Temperature is 6.24°C, Weather is overcast clouds, Humidity is 66%
+At 2025-03-14 19:39:23, Lagos: Temperature is 28.85°C, Weather is overcast clouds, Humidity is 73%
+At 2025-03-14 19:39:46, aleppo: Temperature is 17.44°C, Weather is clear sky, Humidity is 41%
+At 2025-03-14 19:40:26, Kampala: Temperature is 20.63°C, Weather is few clouds, Humidity is 80%
